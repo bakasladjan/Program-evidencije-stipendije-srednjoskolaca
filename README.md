@@ -136,7 +136,10 @@ Uz projekat je priložena kompletna dokumentacija koja obuhvata:
 - SQL Server
 - XML
 - SOAP Web Services
+---
 
+## 📸 Video
+https://youtu.be/VS-jx-D89gA
 ---
 
 ## Autor
