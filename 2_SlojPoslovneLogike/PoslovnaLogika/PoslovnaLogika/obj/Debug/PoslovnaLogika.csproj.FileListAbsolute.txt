@@ -1,0 +1,72 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CopyComplete
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CopyComplete
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\UpisPrvaka\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CopyComplete
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\DBUtils.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\DBUtils.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija – kopija\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CopyComplete
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csprojAssemblyReference.cache
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\DBUtils.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CopyComplete

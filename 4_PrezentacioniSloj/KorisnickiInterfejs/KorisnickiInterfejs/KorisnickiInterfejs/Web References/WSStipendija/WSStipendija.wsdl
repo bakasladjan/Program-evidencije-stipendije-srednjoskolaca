@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="DajSveStipendije">
+        <s:complexType />
+      </s:element>
+      <s:element name="DajSveStipendijeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DajSveStipendijeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajStipendiju">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SIFRA" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajStipendijuResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DajStipendijuResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajSifruStipendije">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DajSifruStipendijeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DajSifruStipendijeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="DajSveStipendijeSoapIn">
+    <wsdl:part name="parameters" element="tns:DajSveStipendije" />
+  </wsdl:message>
+  <wsdl:message name="DajSveStipendijeSoapOut">
+    <wsdl:part name="parameters" element="tns:DajSveStipendijeResponse" />
+  </wsdl:message>
+  <wsdl:message name="DajStipendijuSoapIn">
+    <wsdl:part name="parameters" element="tns:DajStipendiju" />
+  </wsdl:message>
+  <wsdl:message name="DajStipendijuSoapOut">
+    <wsdl:part name="parameters" element="tns:DajStipendijuResponse" />
+  </wsdl:message>
+  <wsdl:message name="DajSifruStipendijeSoapIn">
+    <wsdl:part name="parameters" element="tns:DajSifruStipendije" />
+  </wsdl:message>
+  <wsdl:message name="DajSifruStipendijeSoapOut">
+    <wsdl:part name="parameters" element="tns:DajSifruStipendijeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSStipendijaSoap">
+    <wsdl:operation name="DajSveStipendije">
+      <wsdl:input message="tns:DajSveStipendijeSoapIn" />
+      <wsdl:output message="tns:DajSveStipendijeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DajStipendiju">
+      <wsdl:input message="tns:DajStipendijuSoapIn" />
+      <wsdl:output message="tns:DajStipendijuSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DajSifruStipendije">
+      <wsdl:input message="tns:DajSifruStipendijeSoapIn" />
+      <wsdl:output message="tns:DajSifruStipendijeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSStipendijaSoap" type="tns:WSStipendijaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DajSveStipendije">
+      <soap:operation soapAction="http://tempuri.org/DajSveStipendije" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajStipendiju">
+      <soap:operation soapAction="http://tempuri.org/DajStipendiju" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajSifruStipendije">
+      <soap:operation soapAction="http://tempuri.org/DajSifruStipendije" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSStipendijaSoap12" type="tns:WSStipendijaSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DajSveStipendije">
+      <soap12:operation soapAction="http://tempuri.org/DajSveStipendije" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajStipendiju">
+      <soap12:operation soapAction="http://tempuri.org/DajStipendiju" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DajSifruStipendije">
+      <soap12:operation soapAction="http://tempuri.org/DajSifruStipendije" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSStipendija">
+    <wsdl:port name="WSStipendijaSoap" binding="tns:WSStipendijaSoap">
+      <soap:address location="http://localhost:1370/WSStipendija.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSStipendijaSoap12" binding="tns:WSStipendijaSoap12">
+      <soap12:address location="http://localhost:1370/WSStipendija.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

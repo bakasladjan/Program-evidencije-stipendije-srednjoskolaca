@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Korisnik.Master.cs" Inherits="KorisnickiInterfejs.Korisnik" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head2" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form2" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                   Stipendije srednje škole
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:HyperLink ID="HyperLink2" runat="server" Font-Bold="True" 
+                    Font-Size="Medium" Font-Underline="True" ForeColor="White" 
+                    NavigateUrl="~/Default.aspx">ODJAVA</asp:HyperLink>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu2" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem Text="UČENICI" 
+                            Value="UČENICI">
+                            <asp:MenuItem NavigateUrl="~/UcenikParametarStampe.aspx" Text="Parametarska štampa učenika" 
+                                Value="Parametarska štampa učenika"></asp:MenuItem>
+                        </asp:MenuItem>
+                        
+                           
+                         </Items>
+                        
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
+

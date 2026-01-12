@@ -1,0 +1,42 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csprojResolveAssemblyReference.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CopyComplete
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CopyComplete
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CopyComplete
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlaseMapiranja.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\bin\Debug\KlasePodataka.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csprojAssemblyReference.cache
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.csproj.CopyComplete
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\KlaseMapiranja\KlaseMapiranja\obj\Debug\KlaseMapiranja.pdb

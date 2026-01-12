@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakOgranicenja>
+  <OgranicenjeStipendije>
+    <Sifra>32A</Sifra>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeStipendije>
+<OgranicenjeStipendije>
+    <Sifra>32B</Sifra>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeStipendije>
+<OgranicenjeStipendije>
+    <Sifra>32C</Sifra>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeStipendije>
+</SpisakOgranicenja>

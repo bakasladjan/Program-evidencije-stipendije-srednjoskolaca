@@ -1,0 +1,6 @@
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll.config
+C:\Users\bakas\OneDrive\Desktop\SI2 Seminarski\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSStipendija.csproj.CoreCompileInputs.cache

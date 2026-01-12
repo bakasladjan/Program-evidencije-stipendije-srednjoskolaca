@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakOgranicenja>
+  <OgranicenjeSkole>
+    <SifraSkole>1a</SifraSkole>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeSkole>
+  <OgranicenjeSkole>
+    <SifraSkole>2a</SifraSkole>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeSkole>
+  <OgranicenjeSkole>
+    <SifraSkole>3a</SifraSkole>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeSkole>
+  <Skola SifraSkole="B7" MaxBrUcenika="4" />
+  <OgranicenjeSkole SifraSkole="55" MaxBrUcenika="4" />
+  <OgranicenjeSkole SifraSkole="22" MaxBrUcenika="5" />
+  <OgranicenjeSkole SifraSkole="44" MaxBrUcenika="6" />
+  <OgranicenjeSkole SifraSkole="43" MaxBrUcenika="2" />
+  <OgranicenjeSkole SifraSkole="A8" MaxBrUcenika="4" />
+  <OgranicenjeSkole SifraSkole="57" MaxBrUcenika="4" />
+  <OgranicenjeSkole SifraSkole="4h" MaxBrUcenika="3" />
+  <OgranicenjeSkole SifraSkole="33" MaxBrUcenika="3" />
+  <OgranicenjeSkole SifraSkole="66" MaxBrUcenika="3" />
+  <OgranicenjeSkole SifraSkole="3354" MaxBrUcenika="3" />
+</SpisakOgranicenja>

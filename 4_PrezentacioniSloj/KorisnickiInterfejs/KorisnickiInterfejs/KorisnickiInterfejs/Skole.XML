@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakSkola>
+  <Skola>
+    <SifraSkole>1a</SifraSkole>
+    <NazivSkole>Dositej Obradovic</NazivSkole>
+  </Skola>
+  <Skola>
+    <SifraSkole>2a</SifraSkole>
+    <NazivSkole>Branko Radicevic</NazivSkole>
+  </Skola>
+  <Skola>
+    <SifraSkole>3a</SifraSkole>
+    <NazivSkole>Jovan Jovanovic Zmaj</NazivSkole>
+  </Skola>
+  <Skola SifraSkole="4M" NazivSkole="SSSSSSSSS" />
+  <Skola SifraSkole="6U" NazivSkole="jddjdjd" />
+  <Skola SifraSkole="gf" NazivSkole="sdjjds" />
+  <Skola SifraSkole="B7" NazivSkole="Osnovna škola &quot;Bora Radic&quot;" />
+  <Skola SifraSkole="55" NazivSkole="sdsdas" />
+  <Skola SifraSkole="22" NazivSkole="gffd" />
+  <Skola SifraSkole="44" NazivSkole="fdfs" />
+  <Skola SifraSkole="43" NazivSkole="ddd" />
+  <Skola SifraSkole="A8" NazivSkole="DDSS" />
+  <Skola SifraSkole="57" NazivSkole="fdds" />
+  <Skola SifraSkole="4h" NazivSkole="fff" />
+  <Skola SifraSkole="33" NazivSkole="dd" />
+  <Skola SifraSkole="66" NazivSkole="tt" />
+  <Skola SifraSkole="3354" NazivSkole="ggg" />
+  <Skola SifraSkole="90" NazivSkole="sss" />
+  <Skola SifraSkole="54" NazivSkole="fdd" />
+</SpisakSkola>

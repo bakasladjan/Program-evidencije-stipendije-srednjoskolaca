@@ -1,0 +1,69 @@
+USE [StipendijaSrednjeSkole]
+GO
+
+CREATE PROCEDURE [DajSveStipendije]
+AS
+select * from STIPENDIJA
+GO
+
+CREATE PROCEDURE [DajStipendijuPoNazivu]
+( @Naziv nvarchar(100)
+)
+AS
+select * from STIPENDIJA where STIPENDIJA.Naziv = @Naziv
+GO
+
+
+
+CREATE PROCEDURE [DodajNovuStipendiju]
+( 
+@Sifra char(5),
+@Naziv nvarchar(100),
+@Iznos int
+)
+AS
+BEGIN
+Insert into STIPENDIJA(Sifra, Naziv, Iznos) values (@Sifra, @Naziv, @Iznos)
+END
+GO
+
+CREATE PROCEDURE [ObrisiStipendiju](
+@Sifra char(5))
+AS
+BEGIN
+Delete from STIPENDIJA where Sifra=@Sifra
+END
+GO
+
+CREATE PROCEDURE [IzmeniStipendiju](
+@StaraSifra char(5),
+@Sifra char(5),
+@Naziv nvarchar(100),
+@Iznos int
+)
+AS
+BEGIN
+Update STIPENDIJA set Sifra=@Sifra, Naziv=@Naziv, Iznos=@Iznos where Sifra=@StaraSifra
+END
+GO
+
+CREATE PROCEDURE [DajNazivStipendijePoSifri] (
+@Sifra char(5)
+)
+AS
+SELECT Naziv from STIPENDIJA where STIPENDIJA.Sifra = @Sifra
+GO
+
+CREATE PROCEDURE [DajIznosStipendijePoSifri] (
+@Sifra char(5)
+)
+AS
+SELECT Iznos from STIPENDIJA where STIPENDIJA.Sifra = @Sifra
+GO
+
+CREATE PROCEDURE [DajSifruStipendijePoNazivu] (
+@Naziv nvarchar(100)
+)
+AS
+SELECT Sifra from STIPENDIJA where STIPENDIJA.Naziv = @Naziv
+GO

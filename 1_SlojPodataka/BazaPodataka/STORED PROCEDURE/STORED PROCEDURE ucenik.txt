@@ -1,0 +1,113 @@
+USE [StipendijaSrednjeSkole]
+GO
+
+CREATE PROCEDURE [DajSveUcenike]
+AS
+Select * from UCENIK
+GO
+
+CREATE PROCEDURE [DajSveUcenikeSaJoin] 
+AS
+Select UCENIK.JMBGUcenika, UCENIK.ImeIPrezimeUcenika, UCENIK.Razred, UCENIK.Skola, UCENIK.DatumRodjenja, UCENIK.AdresaUcenika,  UCENIK.KontaktTelefon, STIPENDIJA.Naziv as NazivStipendije, STIPENDIJA.Iznos as IznosStipendije from UCENIK inner join STIPENDIJA on UCENIK.StipendijaID = STIPENDIJA.Sifra
+GO
+
+CREATE PROCEDURE [DajUcenikaPoDatumuRodjenja] @DatumRodjenja date
+AS
+select UCENIK.JMBGUcenika, UCENIK.ImeIPrezimeUcenika, UCENIK.Razred, UCENIK.Skola, UCENIK.DatumRodjenja, UCENIK.AdresaUcenika, UCENIK.KontaktTelefon, STIPENDIJA.Naziv as NazivStipendije, STIPENDIJA.Iznos as IznosStipendije from UCENIK inner join STIPENDIJA on UCENIK.StipendijaID = STIPENDIJA.Sifra where UCENIK.DatumRodjenja = @DatumRodjenja
+GO
+
+CREATE PROCEDURE [DajUcenikaPoJMBG] @JMBGUcenika char(13)
+AS
+select UCENIK.JMBGUcenika, UCENIK.ImeIPrezimeUcenika, UCENIK.Razred, UCENIK.Skola, UCENIK.DatumRodjenja, UCENIK.AdresaUcenika, UCENIK.KontaktTelefon, STIPENDIJA.Naziv as NazivStipendije, STIPENDIJA.Iznos as IznosStipendije from UCENIK inner join STIPENDIJA on UCENIK.StipendijaID = STIPENDIJA.Sifra where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DodajNovogUcenika]( 
+@JMBGUcenika char(13),
+@ImeIPrezimeUcenika nvarchar(40),
+@Razred nvarchar(3),
+@Skola nvarchar(40),
+@DatumRodjenja date,
+@AdresaUcenika nvarchar(40),
+@KontaktTelefon nvarchar(40),
+@StipendijaID char(5))
+AS
+BEGIN
+Insert into UCENIK(JMBGUcenika, ImeIPrezimeUcenika, Razred, Skola, DatumRodjenja, AdresaUcenika, KontaktTelefon, StipendijaID) values (@JMBGUcenika, @ImeIPrezimeUcenika, @Razred, @Skola, @DatumRodjenja, @AdresaUcenika, @KontaktTelefon, @StipendijaID)
+END
+GO
+
+CREATE PROCEDURE [ObrisiUcenika](
+@JMBGUcenika char(13))
+AS
+BEGIN
+Delete from UCENIK where JMBGUcenika=@JMBGUcenika
+END
+GO
+
+CREATE PROCEDURE [IzmeniUcenika](
+@StariJMBGUcenika char(13),
+@JMBGUcenika char(13),
+@ImeIPrezimeUcenika nvarchar(40),
+@Razred nvarchar(3),
+@Skola nvarchar(40),
+@DatumRodjenja date,
+@AdresaUcenika nvarchar(40),
+@KontaktTelefon nvarchar(40),
+@StipendijaID char(5))
+AS
+BEGIN
+Update UCENIK set JMBGUcenika = @JMBGUcenika, ImeIPrezimeUcenika = @ImeIPrezimeUcenika, Razred = @Razred, Skola = @Skola, DatumRodjenja = @DatumRodjenja, AdresaUcenika = @AdresaUcenika, KontaktTelefon = @KontaktTelefon, StipendijaId = @StipendijaID where JMBGUcenika = @StariJMBGUcenika
+END
+GO
+
+CREATE PROCEDURE [DajSveUcenikeSaJoinSifromStipendije] 
+AS
+Select UCENIK.JMBGUcenika, UCENIK.ImeIPrezimeUcenika, UCENIK.Razred, UCENIK.Skola, UCENIK.DatumRodjenja, UCENIK.AdresaUcenika, UCENIK.KontaktTelefon, STIPENDIJA.Naziv as NazivStipendije, STIPENDIJA.Iznos as IznosStipendije, STIPENDIJA.Sifra as SifraStipendije from UCENIK inner join STIPENDIJA on UCENIK.StipendijaID = STIPENDIJA.Sifra
+GO
+
+CREATE PROCEDURE [DajBrojUcenikaZaStipendiju] (
+@IDStipendije char(5)
+)
+AS
+SELECT COUNT(UCENIK.UcenikID) FROM UCENIK where UCENIK.StipendijaID = @IDStipendije;
+GO
+
+CREATE PROCEDURE [DajImeIPrezimeUcenikaPoJMBG] @JMBGUcenika char(13)
+AS
+SELECT UCENIK.ImeIPrezimeUcenika from UCENIK where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajRazredPoJMBG] @JMBGUcenika char(13)
+AS
+SELECT UCENIK.Razred from UCENIK where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajSkoluPoJMBG] @JMBGUcenika char(13)
+AS
+SELECT UCENIK.Skola from UCENIK where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajDatumRodjenjaPoJMBG] @JMBGUcenika char(13)
+AS
+SELECT UCENIK.DatumRodjenja from UCENIK where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajAdresuUcenikaPoJMBG] @JMBGUcenika char(13)
+AS
+SELECT UCENIK.AdresaUcenika from UCENIK where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajKontaktTelefonPoJMBG] @JMBGUcenika char(13)
+AS
+SELECT UCENIK.KontaktTelefon from UCENIK where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajNazivStipendijePoJMBG] @JMBGUcenika char(13)
+AS
+SELECT STIPENDIJA.Naziv as NazivStipendije from UCENIK inner join STIPENDIJA ON UCENIK.StipendijaID = STIPENDIJA.Sifra where UCENIK.JMBGUcenika = @JMBGUcenika
+GO
+
+CREATE PROCEDURE [DajIznosStipendijePoJMBG] @JMBGUcenika char(13)
+AS
+SELECT STIPENDIJA.Iznos as IznosStipendije from UCENIK inner join STIPENDIJA ON UCENIK.StipendijaID = STIPENDIJA.Sifra where UCENIK.JMBGUcenika = @JMBGUcenika
+GO

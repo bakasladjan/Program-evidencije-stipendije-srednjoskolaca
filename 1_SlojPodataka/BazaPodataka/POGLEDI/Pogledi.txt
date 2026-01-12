@@ -1,0 +1,7 @@
+CREATE VIEW IznosStipendije AS
+SELECT Sifra, Naziv, Iznos, DatumOdobravanja, Status
+FROM Stipendija
+WHERE Iznos > 100000;
+GO
+
+SELECT * FROM IznosStipendije;

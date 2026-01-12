@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakStipendija>
+  <Stipendija>
+    <Sifra>32A</Sifra>
+    <Naziv>Opštinska</Naziv>
+    <Iznos>80000</Iznos>
+    <DatumOdobravanja>2024-03-24</DatumOdobravanja>
+    <Status>Odobreno</Status>
+  </Stipendija>
+  <Stipendija>
+    <Sifra>32B</Sifra>
+    <Naziv>Državna</Naziv>
+    <Iznos>130000</Iznos>
+    <DatumOdobravanja>2024-02-21</DatumOdobravanja>
+    <Status>Odobreno</Status>
+  </Stipendija>
+  <Stipendija>
+    <Sifra>32C</Sifra>
+    <Naziv>Medjunarodna(Rumunska)</Naziv>
+    <Iznos>200000</Iznos>
+    <DatumOdobravanja>2024-01-23</DatumOdobravanja>
+    <Status>Odobreno</Status>
+  </Stipendija>
+  <Stipendija>
+    <Sifra>32D</Sifra>
+    <Naziv>Medjunarodna(Madjarska)</Naziv>
+    <Iznos>200000</Iznos>
+    <DatumOdobravanja>2024-01-23</DatumOdobravanja>
+    <Status>Odobreno</Status>
+  </Stipendija>
+  <Stipendija Sifra="32G" Naziv="Medjunarodna" Iznos="250000" DatumOdobravanja="25.3.2024. 00:00:00" Status="Odobreno" />
+  <Stipendija Sifra="32G" Naziv="Medjunarodna" Iznos="250000" DatumOdobravanja="25.3.2024. 00:00:00" Status="Odobreno" />
+  <Stipendija Sifra="32G" Naziv="Medjunarodna" Iznos="300000" DatumOdobravanja="25.3.2024. 00:00:00" Status="Odobreno" />
+  <Stipendija Sifra="32G" Naziv="Medjunarodna" Iznos="300000" DatumOdobravanja="25.3.2024. 00:00:00" Status="Odobreno" />
+  <Stipendija Sifra="32H" Naziv="Medjunarodna" Iznos="300000" />
+</SpisakStipendija>

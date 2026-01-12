@@ -1,0 +1,18 @@
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\spani\Desktop\Faks\7. semestar\Softversko inženjerstvo 2\SEMINARSKI\SEMINARSKI RAD\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\spani\Desktop\UpisPrvaka\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.AssemblyReference.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.CoreCompileInputs.cache
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\spani\Desktop\UpisPrvaka – kopija\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb

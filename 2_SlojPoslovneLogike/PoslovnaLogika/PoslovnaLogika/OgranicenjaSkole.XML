@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakOgranicenja>
+  <OgranicenjeSkole>
+    <SifraSkole>1a</SifraSkole>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeSkole>
+<OgranicenjeSkole>
+    <SifraSkole>2a</SifraSkole>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeSkole>
+<OgranicenjeSkole>
+    <SifraSkole>3a</SifraSkole>
+    <MaxBrUcenika>3</MaxBrUcenika>
+  </OgranicenjeSkole>
+</SpisakOgranicenja>

@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="KorisnickiInterfejs.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                     Stipendije srednje skole
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:HyperLink ID="HyperLink1" runat="server" Font-Bold="True" 
+                    Font-Size="Medium" Font-Underline="True" ForeColor="White" 
+                    NavigateUrl="~/Default.aspx">ODJAVA</asp:HyperLink>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem Text="UČENICI" 
+                            Value="UČENICI">
+                            <asp:MenuItem NavigateUrl="~/UcenikUnos.aspx" Text="Unos učenika" 
+                                Value="Unos učenika"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/UcenikTabelaEdit.aspx" 
+                                Text="Izmena i brisanje učenika" Value="Izmena i brisanje učenika">
+                            </asp:MenuItem>
+                             <asp:MenuItem NavigateUrl="~/UcenikSpisak.aspx" Text="Spisak učenika" 
+                                Value="Spisak učenika"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/UcenikStampa.aspx" Text="Stampa spiska učenika" 
+                                Value="Stampa spiska učenika"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/UcenikParametarStampe.aspx" 
+                                Text="Parametarska stampa spiska učenika" 
+                                Value="Parametarska stampa spiska učenika"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="STIPENDIJE" 
+                            Value="STIPENDIJE">
+                            <asp:MenuItem NavigateUrl="~/StipendijaUnos.aspx" Text="Unos stipendija" 
+                                Value="Unos stipendija"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/StipendijaTabelaEdit.aspx" Text="Izmena i brisanje stipendija" 
+                                Value="Izmena i brisanje stipendija"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/StipendijaTabelarni.aspx" 
+                                Text="Tabelarni prikaz stipendija" Value="Tabelarni prikaz stipendija">
+                            </asp:MenuItem>
+                             </asp:MenuItem>
+                         </Items>
+                        
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
+
